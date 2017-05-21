@@ -1,3 +1,6 @@
+# Updtaed USB RC Joystick Adapter
+The original voroshkov/LeoNardo-USB-RC_Adapter is good up to Arduino 16.4.  For latest version of Arduino, the hid.cpp and usvapi.h need to merged with latest Arduino libraries.  This is still work in progress.
+
 # USB RC Joystick Adapter
 This project turns Arduino Leonardo (or Pro Micro) into a USB adapter for RC transmitter.
 The adapter can be used to play [FPV Freerider](http://fpv-freerider.itch.io/fpv-freerider) 
