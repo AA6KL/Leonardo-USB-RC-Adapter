@@ -25,6 +25,7 @@ Done by Andrey Voroshkov in December 2015,
 
 #include "Arduino.h"
 #include <avr/interrupt.h>
+#include "Joystick.h"
 
 // Use for Futaba transmitters (they have shifted center value and narrower range by default)
 #define FUTABA
