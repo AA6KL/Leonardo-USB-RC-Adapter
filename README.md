@@ -10,7 +10,7 @@ or other flight simulators.
 The project is based on voroshkov/LeoNardo-USB-RC_Adapter(https://github.com/voroshkov/Leonardo-USB-RC-Adapter)
 
 #Flashing:
-- Copy the Joystick folder to the Arduino installation folder, under "libries"
+- Copy the Joystick folder to the Arduino installation folder, under "libraries"
 - Open the sketch in Arduino IDE, choose Leonardo board, upload.
 
 #Connections:
